@@ -1,7 +1,6 @@
-# Utils
-Utilerias Para desarrollos
+# Utils Eclipse Development
 
-
+Abreviaturas de teclado
 
 |  Navigational Shortcuts | Uses  |  
 |---|---|
@@ -18,6 +17,13 @@ Utilerias Para desarrollos
 |Ctrl+Shift+W | List all files open in an editor  |
 |Alt+left arrow | Back (last editing position)  |
 |Alt+right arrow  |  Forward (next editing position) |
+
+Para dirigirse hacia un problema (i.e.: error, warning)
+
+|Metodo| Funcionalidad|
+|---|---|
+|Ctrl +|Para el siguiente,en un archivo|
+|Ctrl -|Para el problema previo.|
 
 
 
