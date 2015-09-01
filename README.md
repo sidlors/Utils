@@ -41,10 +41,7 @@ Utilerias Para desarrollos
 |F4|Open hierarchy|
 |Ctrl+F|Find/replace|
 |Ctrl+H|Brings up Java search with the selected item in the search table.|
-|Ctrl+Shift+T
-Or
-Ctrl+Shift+H|Type Browser:- Search a class/interface by typing it’s name(wildcards: ‘*’ and ‘?’ can also be used)
-“Ctrl+Shift+H” brings up Hierarchical Browser… works much the same as Type Browser!|
+|Ctrl+Shift+T Or Ctrl+Shift+H|Type Browser:- Search a class/interface by typing it’s name(wildcards: ‘*’ and ‘?’ can also be used) “Ctrl+Shift+H” brings up Hierarchical Browser… works much the same as Type Browser!|
 |Ctrl+Shift+G|Search References in workspace|
 |Ctrl+O|Search data-members or methods in the Class (works similar to Ctrl+Shift+T ,i.e, type search… but the scope is only the current Class file open in the editor)|
 |Ctrl+Shift+U|Search occurrences (of selected methodName or dataMember) within the same Class file.|
