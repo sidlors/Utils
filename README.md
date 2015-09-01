@@ -46,7 +46,42 @@ Utilerias Para desarrollos
 |Ctrl+O|Search data-members or methods in the Class (works similar to Ctrl+Shift+T ,i.e, type search… but the scope is only the current Class file open in the editor)|
 |Ctrl+Shift+U|Search occurrences (of selected methodName or dataMember) within the same Class file.|
 
+ Atajos de teclado. Dichos atajos los voy a dividir en dos casos puntuales iníciales que son los que todas los desarrolladores en dicho entorno mínimamente deberían saber, y los expertos que creo a mi entender que estará de más aclarar a quien están orientados no? Jajaja  :P.
 
+
+|Atajo|Descripción|
+|---|---|
+|CTRL + E|    Acceso a los ficheros que ya están abiertos |
+|CTRL + O|    Acceso a los atributos y métodos de esa clase|
+|CTRL + O (2 veces)|    Igual que el anterior pero añadiendo los atributos y métodos de las clases padre|
+|CTRL + L|    Acceso a la línea indicada|
+|CTRL + K|    Rastrea la variable seleccionada|
+|CTRL + F|    Buscar / Reemplazar una palabra|
+|CTRL + D|    Eliminar la fila|
+|CTRL + SUPR|    Eliminar la siguiente palabra|
+|CTRL + RETRO|    Eliminar la anterior palabra|
+|CTRL + MAY + SUPR|    Eliminar hasta el final|
+|CTRL + Q|    Volver a la anterior pestaña de edición|
+|CTRL + 3|    Cargador de vistas|
+|CTRL + MAY + F|    Formatea el texto según lo configurado|
+|CTRL + MAY + S|    Guarda todos los documentos abiertos|
+|CTRL + MAY + O|    Organizador de imports (añadiéndolos si faltan)|
+|CTRL + MAY + T|    Buscador de tipos en el workspace|
+|CTRL + MAY + R|    Acceso a la búsqueda de recursos|
+|CTRL + 7|    Comenta el texto seleccionado    |
+
+Atajos Expertos
+
+|Acción|    Descripción|
+|---|---|
+|Cambiar el texto a mayuscula|    Seleccionar el texto a pasar a mayúscula y pulsar CTRL + SHIFT + X|
+|Cambiar el texto a minúscula|    Seleccionar el texto a pasar a mayúscula y pulsar CTRL + SHIFT + Y|
+|Buscar todas las clases en el que método está siendo utilizado.|    Selecionamos el método y presionamos CTRL + SHIFT + G|
+|Crear rápido una clase, interface ,etc.|    Presionamos la teclas CTRL + N|
+|Ver las propiedades de una clase o proyecto.|    Primero se debe seleccionar y luego presionar ALT + ENTER|
+|F3  Sobre el método  o la clase entramos donde se encuentra implementado.
+|CTRL+ SHIFT + FLECHA ABAJO:| Posiciona el cursor en el método o propiedad siguiente al que estamos actualmente.|
+|CTRL+ SHIFT + FLECHA ARRIBA:| Posiciona el cursor en el método o propiedad anterior al que estamos actualmente.|
 
 
 Plugins Para Eclipse Kepler
