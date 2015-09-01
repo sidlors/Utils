@@ -1,0 +1,47 @@
+|  Navigational Shortcuts | Uses  |  
+|---|---|
+| Ctrl+L |  Go to line number. |
+| Ctrl+I | Indent the highlighted text.  |
+|Ctrl+Q | Goto last modified editor position  |
+|Ctrl+K | Go to next occurrence of the selected text  |
+|Ctrl+Shift+K |  Go to previous occurrence of the selected text |
+|Ctrl+F6 | Navigate between open Editors (or, files in an editor)  |
+|Ctrl+F7 | Navigate between open Views  |
+|Ctrl+F8 | Navigate between open Perspectives  |
+|Ctrl+Shift+P |  Navigating to Matching braces |
+|F12 | Jump to the open Editor  |
+|Ctrl+Shift+W | List all files open in an editor  |
+|Alt+left arrow | Back (last editing position)  |
+|Alt+right arrow  |  Forward (next editing position) |
+
+
+
+|  Coding AssistantsCoding Assistants |  Uses |  
+|---|---|
+|Ctrl+Space|Brings up coding/context assistant.Make required selection and press enter or, double click.After selection, Javadoc will appear in hover Help.|
+|Ctrl+Shift+M|Add import|
+|Ctrl+Shift+O|Organize Imports|
+|Ctrl+B|Executes an incremental build of a project in the navigation view
+|Ctrl+E|Goes to the next error.|
+|Alt+Shift+M|Extract Method|
+|Alt+Shift+R|Rename method/variable|
+|Ctrl+Shift+F|Format Code|
+|Ctrl+Shift+E|Delete till end-of-line|
+
+
+
+|Search Shortcuts|Uses|
+|---|---|
+|F3|Open Declaration of Selected Element|
+|F4|Open hierarchy|
+|Ctrl+F|Find/replace|
+|Ctrl+H|Brings up Java search with the selected item in the search table.|
+|Ctrl+Shift+T
+Or
+Ctrl+Shift+H|Type Browser:- Search a class/interface by typing it’s name(wildcards: ‘*’ and ‘?’ can also be used)
+“Ctrl+Shift+H” brings up Hierarchical Browser… works much the same as Type Browser!|
+|Ctrl+Shift+G|Search References in workspace|
+|Ctrl+O|Search data-members or methods in the Class (works similar to Ctrl+Shift+T ,i.e, type search… but the scope is only the current Class file open in the editor)|
+|Ctrl+Shift+U|Search occurrences (of selected methodName or dataMember) within the same Class file.|
+
+
