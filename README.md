@@ -5,10 +5,14 @@
 Grep Console is a very nice eclipse plugin but the documentation lacks proper regular expressions to be used with.
 Below are few regex which I used during development
 
-  1) Fatal     (.*)(FATAL)(.*) 
+  1) Fatal     (.*)(FATAL)(.*)
+  
   2) Error    (.*)(ERROR)(.*) 
+  
   3) Info      (.*)(INFO)(.*) 
+  
   4) Debug  (.*)(DEBUG)(.*) 
+  
   5) Trace   (.*)(TRACE)(.*)
 
 
